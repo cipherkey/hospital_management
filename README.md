@@ -28,4 +28,4 @@ Step 2  --> Make sure your pom.xml should contain.
         
    Step 4 -->  Run executable JAR as using this command 
 
-       java -jar target/spring-boot-demo-0.0.1-SNAPSHOT.jar
+       java -jar target/hospital_management-0.0.1-SNAPSHOT.jar
